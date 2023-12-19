@@ -1,0 +1,13 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center {
+    text-align: center;
+}
+body{
+    background-image: url('https://enduro-mtb.com/wp-content/uploads/2021/07/Das-Beste-Bike-Park-Mountainbike-Test-Review-2021-128-1140x760.jpg')
+}
